@@ -15,7 +15,8 @@ body {
     font-size: 14px;
 }
 button {
-    background-color: #5ae4ca;
+    text-decoration: none;
+    background: #009dae;
     color: white;
     font-weight: bold;
     border: 0;
