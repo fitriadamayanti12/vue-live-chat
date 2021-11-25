@@ -2,7 +2,12 @@
 
 ## Project setup
 ```
-npm install
+npm install firebase
+```
+
+## Formatting Dates
+```
+npm install date-fns --save
 ```
 
 ### Compiles and hot-reloads for development
